@@ -1,18 +1,19 @@
 <?php
 
-use Illuminate\Http\Request;
+Route::get('employees/all', 'EmployeesController@getAll');
+Route::get('employees/{employee}', 'EmployeesController@getOne');
+Route::post('employees', 'EmployeesController@store');
+Route::put('employees/{employee}', 'EmployeesController@update');
+Route::delete('employees/{employee}', 'EmployeesController@delete');
 
-/*
-|--------------------------------------------------------------------------
-| API Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register API routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| is assigned the "api" middleware group. Enjoy building your API!
-|
-*/
+Route::get('expenses/all', 'ExpensesController@getAll');
+Route::get('expenses/{expense}', 'ExpensesController@getOne');
+Route::post('expenses', 'ExpensesController@store');
+Route::put('expenses/{expense}', 'ExpensesController@update');
+Route::delete('expenses/{expense}', 'ExpensesController@delete');
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
-});
+Route::get('work-hours/all', 'WorkHoursController@getAll');
+Route::get('work-hours/{workhour}', 'WorkHoursController@getOne');
+Route::post('work-hours', 'WorkHoursController@store');
+Route::put('work-hours/{workhour}', 'WorkHoursController@update');
+Route::delete('work-hours/{workhour}', 'WorkHoursController@delete');
