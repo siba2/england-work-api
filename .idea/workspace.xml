@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74b1354b-2d08-48c6-bc0d-c464a7b365d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../england-work-front/src/services/employees.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../england-work-front/src/views/employees/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../england-work-front/src/views/expenses/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../england-work-front/src/views/menu/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../england-work-front/src/views/work_hours/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/england-work-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/england-work-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../england-work-front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../england-work-front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../england-work-front/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../england-work-front/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../england-work-front/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../england-work-front/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../england-work-front/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../england-work-front/tests/unit/example.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../england-work-front/tests/unit/example.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../england-work-front/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../england-work-front/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../england-work-front/src/views/employees/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../england-work-front/src/views/employees/index.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +18,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../england-work-front/src/views/employees/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+            <state relative-caret-position="2482">
+              <caret line="146" column="59" selection-start-line="146" selection-start-column="59" selection-end-line="146" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EmployeesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#40#58#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -175,6 +169,33 @@
           <expand>
             <path>
               <item name="england-work-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="england-work-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="england-work-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="england-work-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="england-work-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="england-work-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="england-work-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="england-work-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="england-work-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="england-work-api" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="england-work-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="england-work-front" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -239,7 +260,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7052000" />
+    <option name="totallyTimeSpent" value="9929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -323,25 +344,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WorkHoursController.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EmployeesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="e#40#58#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ExpensesController.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -409,10 +413,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EmployeesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#40#58#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../england-work-front/src/views/employees/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        <state relative-caret-position="2482">
+          <caret line="146" column="59" selection-start-line="146" selection-start-column="59" selection-end-line="146" selection-end-column="59" />
         </state>
       </provider>
     </entry>
