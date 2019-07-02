@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/england-work-api.iml" filepath="$PROJECT_DIR$/.idea/england-work-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../england-work-front/.idea/england-work-front.iml" filepath="$PROJECT_DIR$/../england-work-front/.idea/england-work-front.iml" />
     </modules>
   </component>
 </project>
